@@ -1,0 +1,22 @@
+{
+  "name": "loyiha",
+  "version": "1.0.0",
+  "description": "Samarqand turistik shahar platformasi",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch sass/main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alishersheraliyev/samarkand.git"
+  },
+  "author": "Alisher Sheraliyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alishersheraliyev/samarkand/issues"
+  },
+  "homepage": "https://github.com/alishersheraliyev/samarkand#readme",
+  "devDependencies": {
+    "sass": "^1.93.3"
+  }
+}
